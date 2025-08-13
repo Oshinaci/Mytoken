@@ -1,5 +1,3 @@
-# MyToken
-
 MyToken adalah token crypto berbasis Ethereum yang memanfaatkan standar ERC20. Kontrak ini memungkinkan Anda untuk mencetak (mint) dan membakar (burn) token, serta mengelola pasokan token dengan mudah.
 
 ## Fitur
